@@ -280,7 +280,8 @@ ul.dropdown-menu li a{
         font-size: 1em;
     }
     .calculator tr {    display: table;  width:100%;    }               
-    .calculator td {    width:100%; display: table-row;} 
+    .calculator td {    width:100%; display: table-row;}
+    .calculator th {    display: none;} 
     table {border-spacing: 5px; border-collapse: separate; text-align: left;}
 }
 
